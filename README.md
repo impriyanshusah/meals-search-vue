@@ -3,7 +3,7 @@ This repository was created alongside the following [YouTube Tutorial](https://y
 
 
 ## Demo Site
-🔗 click-me] (https://impriyanshusah.github.io/meals-search-vue/
+🔗 [click-me](https://impriyanshusah.github.io/meals-search-vue/)
 
 
 ## Installation
