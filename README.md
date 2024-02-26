@@ -6,7 +6,6 @@ This repository was created alongside the following [YouTube Tutorial](https://y
 ## Installation
 1. Clone the repository
 1. Run `npm install`
-1. Rename `.env.example` into `.env`
 1. Run `npm run dev` to start the application at http://localhost:3000
 
 
