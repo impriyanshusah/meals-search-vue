@@ -2,8 +2,8 @@
 This repository was created alongside the following [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM)
 
 
-## Demo Site
-🔗 [click-me](https://impriyanshusah.github.io/meals-search-vue/)
+## Demo Site (Vercel)
+🔗 [click-me](https://meals-priyanshu.vercel.app/)
 
 
 ## Installation
