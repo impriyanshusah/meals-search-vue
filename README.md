@@ -1,5 +1,5 @@
-# Meals Search app built with Vue.js
-This repository was created alongside the following [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM)
+# Meals Search app built with Vue.js + Vite
+This project was made through the following [YouTube Tutorial](https://youtu.be/cfiN8lCA3RM)
 
 
 ## Demo Site (Vercel)
@@ -12,6 +12,4 @@ This repository was created alongside the following [YouTube Tutorial](https://y
 1. Run `npm run dev` to start the application at http://localhost:3000
 
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
